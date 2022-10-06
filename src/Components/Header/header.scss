@@ -1,0 +1,31 @@
+.header {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+    &__icon {
+    }
+  
+    &__catalog-menu {
+    }
+  
+    &__search-tab {
+    }
+  
+    &__nav-tab {
+      display: flex;
+  
+      &__profile {
+      }
+  
+      &__cart {
+      }
+  
+      &__orderInfo {
+      }
+  
+      &__wishlist {
+      }
+    }
+  }
